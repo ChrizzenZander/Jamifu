@@ -2,3 +2,6 @@ Base path: 'C:/Program Files (x86)/Unity Folder/2021.3.23f1/Editor/Data', plugin
 Cmd: initializeCompiler
 
 
+Unhandled exception: Protocol error - failed to read magic number (error -2147483644, transferred 0/4)
+
+Quitting shader compiler process
