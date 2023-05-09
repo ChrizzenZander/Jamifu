@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2021.3/staging' branch; Version is '2021.3.23f1 (213b516bf396) revision 2177873'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 11  (10.0.25346) 64bit Core' Language: 'en' Physical Memory: 15756 MB
+OS: 'Windows 11  (10.0.25352) 64bit Core' Language: 'en' Physical Memory: 15756 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
@@ -11,13 +11,13 @@ C:\Program Files (x86)\Unity Folder\2021.3.23f1\Editor\Unity.exe
 -name
 AssetImportWorker1
 -projectPath
-C:/Users/chris/OneDrive - NEXT Uddannelse København/Programming/Projects/ジゃミフ/Jamifu/Unity Project/ジゃミフ
+C:/Users/chris/OneDrive - NEXT Uddannelse København/Programming/Projects/ジャミフ - Work/Jamifu/Unity Project/ジゃミフ
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-52002
-Successfully changed project path to: C:/Users/chris/OneDrive - NEXT Uddannelse København/Programming/Projects/ジゃミフ/Jamifu/Unity Project/ジゃミフ
-C:/Users/chris/OneDrive - NEXT Uddannelse København/Programming/Projects/ジゃミフ/Jamifu/Unity Project/ジゃミフ
+62206
+Successfully changed project path to: C:/Users/chris/OneDrive - NEXT Uddannelse København/Programming/Projects/ジャミフ - Work/Jamifu/Unity Project/ジゃミフ
+C:/Users/chris/OneDrive - NEXT Uddannelse København/Programming/Projects/ジャミフ - Work/Jamifu/Unity Project/ジゃミフ
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,15 +47,15 @@ C:/Users/chris/OneDrive - NEXT Uddannelse København/Programming/Projects/ジゃ
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [31992] Host "[IP] 25.22.152.242 [Port] 0 [Flags] 2 [Guid] 842076012 [EditorId] 842076012 [Version] 1048832 [Id] WindowsEditor(7,Chriss) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [35388] Host "[IP] 25.22.152.242 [Port] 0 [Flags] 2 [Guid] 3047195992 [EditorId] 3047195992 [Version] 1048832 [Id] WindowsEditor(7,Chriss) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [31992] Host "[IP] 25.22.152.242 [Port] 0 [Flags] 2 [Guid] 842076012 [EditorId] 842076012 [Version] 1048832 [Id] WindowsEditor(7,Chriss) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [35388] Host "[IP] 25.22.152.242 [Port] 0 [Flags] 2 [Guid] 3047195992 [EditorId] 3047195992 [Version] 1048832 [Id] WindowsEditor(7,Chriss) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 134.25 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 153.68 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.23f1 (213b516bf396)
 [Subsystems] Discovering subsystems at path C:/Program Files (x86)/Unity Folder/2021.3.23f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/chris/OneDrive - NEXT Uddannelse København/Programming/Projects/ジゃミフ/Jamifu/Unity Project/ジゃミフ/Assets
+[Subsystems] Discovering subsystems at path C:/Users/chris/OneDrive - NEXT Uddannelse København/Programming/Projects/ジャミフ - Work/Jamifu/Unity Project/ジゃミフ/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -67,89 +67,89 @@ Initialize mono
 Mono path[0] = 'C:/Program Files (x86)/Unity Folder/2021.3.23f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files (x86)/Unity Folder/2021.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files (x86)/Unity Folder/2021.3.23f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56456
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56892
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files (x86)/Unity Folder/2021.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.011844 seconds.
+Registered in 0.008484 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 136.68 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 119.81 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.104 seconds
+- Completed reload, in  1.007 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1105ms)
-		BeginReloadAssembly (173ms)
+	ReloadAssembly (1008ms)
+		BeginReloadAssembly (209ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (744ms)
-			LoadAssemblies (169ms)
+		EndReloadAssembly (656ms)
+			LoadAssemblies (206ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (161ms)
+			SetupTypeCache (146ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (49ms)
-			SetupLoadedEditorAssemblies (451ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (400ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (14ms)
+				InitializePlatformSupportModulesInManaged (10ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (137ms)
+				RefreshPlugins (120ms)
 				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (231ms)
-				ProcessInitializeOnLoadMethodAttributes (67ms)
+				ProcessInitializeOnLoadAttributes (198ms)
+				ProcessInitializeOnLoadMethodAttributes (71ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.030905 seconds.
+Registered in 0.011440 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\chris\OneDrive - NEXT Uddannelse København\Programming\Projects\ジゃミフ\Jamifu\Unity Project\ジゃミフ\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\chris\OneDrive - NEXT Uddannelse København\Programming\Projects\ジゃミフ\Jamifu\Unity Project\ジゃミフ\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\chris\OneDrive - NEXT Uddannelse København\Programming\Projects\ジャミフ - Work\Jamifu\Unity Project\ジゃミフ\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\chris\OneDrive - NEXT Uddannelse København\Programming\Projects\ジャミフ - Work\Jamifu\Unity Project\ジゃミフ\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 129.59 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 159.25 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.617 seconds
+- Completed reload, in  2.011 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1618ms)
-		BeginReloadAssembly (160ms)
+	ReloadAssembly (2012ms)
+		BeginReloadAssembly (241ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
+			DisableScriptedObjects (7ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (27ms)
-		EndReloadAssembly (1310ms)
-			LoadAssemblies (131ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (1599ms)
+			LoadAssemblies (359ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
 			SetupTypeCache (343ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (86ms)
-			SetupLoadedEditorAssemblies (681ms)
+			RebuildScriptCaches (103ms)
+			SetupLoadedEditorAssemblies (787ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (8ms)
+				InitializePlatformSupportModulesInManaged (7ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (130ms)
-				BeforeProcessingInitializeOnLoad (133ms)
-				ProcessInitializeOnLoadAttributes (327ms)
-				ProcessInitializeOnLoadMethodAttributes (69ms)
-				AfterProcessingInitializeOnLoad (13ms)
+				RefreshPlugins (159ms)
+				BeforeProcessingInitializeOnLoad (139ms)
+				ProcessInitializeOnLoadAttributes (417ms)
+				ProcessInitializeOnLoadMethodAttributes (53ms)
+				AfterProcessingInitializeOnLoad (11ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
-Refreshing native plugins compatible for Editor in 1.22 ms, found 4 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.85 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3733 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 41 unused Assets / (229.5 KB). Loaded Objects now: 4186.
-Memory consumption went from 148.7 MB to 148.5 MB.
-Total: 5.244900 ms (FindLiveObjects: 0.595200 ms CreateObjectMapping: 0.316400 ms MarkObjects: 4.124100 ms  DeleteObjects: 0.207200 ms)
+Unloading 41 unused Assets / (228.8 KB). Loaded Objects now: 4187.
+Memory consumption went from 148.9 MB to 148.7 MB.
+Total: 5.540800 ms (FindLiveObjects: 0.545800 ms CreateObjectMapping: 0.336500 ms MarkObjects: 4.424800 ms  DeleteObjects: 0.231900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -162,3 +162,458 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 11696.884688 seconds.
+  path: Assets/Audio/Speech/Split/bya.mp3
+  artifactKey: Guid(62559031944288a4b8231e6442cfddc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/bya.mp3 using Guid(62559031944288a4b8231e6442cfddc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01aed2969fb84d8b02b4a1dee1f44488') in 0.199811 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Audio/Speech/Split/nya.mp3
+  artifactKey: Guid(8b39cccc42662d940b779364a89bd32f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/nya.mp3 using Guid(8b39cccc42662d940b779364a89bd32f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '530753e1ca8d7dbc36179b53f9a5f2d5') in 0.028185 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Audio/Speech/Split/chu.mp3
+  artifactKey: Guid(85e4f2421dff0fa408326da1ddaefc10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/chu.mp3 using Guid(85e4f2421dff0fa408326da1ddaefc10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '294fc2658ae7a7c4196c0a5078ba6d86') in 0.016492 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Audio/Speech/Split/ryu.mp3
+  artifactKey: Guid(e00e1d79e33c7e045898bbbc66dd9bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/ryu.mp3 using Guid(e00e1d79e33c7e045898bbbc66dd9bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dc41dcdc168a1152517033fe2cbb7ed') in 0.024130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Audio/Speech/Split/jo.mp3
+  artifactKey: Guid(3d25c988923df6743877fdc9e2a0d3eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/jo.mp3 using Guid(3d25c988923df6743877fdc9e2a0d3eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8d0741dd281cb681b0ca9ec38d9464f') in 0.022460 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Audio/Speech/Split/hyo.mp3
+  artifactKey: Guid(d900d249b02717d43987c6f021ade68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/hyo.mp3 using Guid(d900d249b02717d43987c6f021ade68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '271d65f7fd30245dadc0ce854c5a3301') in 0.023622 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Audio/Speech/Split/pu.mp3
+  artifactKey: Guid(b2fc961d12716764bae772541e4d4d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/pu.mp3 using Guid(b2fc961d12716764bae772541e4d4d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eebdc69e0e418ca0c5acc155a0b1766') in 0.017861 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Audio/Speech/Split/gyo.mp3
+  artifactKey: Guid(54ce89c4d54104f47828179140d387cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/gyo.mp3 using Guid(54ce89c4d54104f47828179140d387cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e975d33dfa2e039af9a7e126e129d644') in 0.017706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Audio/Speech/Split/oo.mp3
+  artifactKey: Guid(36112b91929a6384dbaf6df72266bcc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/oo.mp3 using Guid(36112b91929a6384dbaf6df72266bcc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3bfbc45e566f44bc80b96f0f5bdfbd6') in 0.019990 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Audio/Speech/Split/mya.mp3
+  artifactKey: Guid(529ab0adcb409b9449f7925bb6baf14f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/mya.mp3 using Guid(529ab0adcb409b9449f7925bb6baf14f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f4bff97730ee0ad013ede17297e9e15') in 0.015564 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Audio/Speech/Split/ja.mp3
+  artifactKey: Guid(d823f9b4f0ae86143a9d15c07be464e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/ja.mp3 using Guid(d823f9b4f0ae86143a9d15c07be464e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4208f2ea969dea4db6e6bd44458c75eb') in 0.015570 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Audio/Speech/Split/byu.mp3
+  artifactKey: Guid(59dee7ca40745c444894f770e04478ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/byu.mp3 using Guid(59dee7ca40745c444894f770e04478ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f09928560df524fffc2743e76871c28c') in 0.024086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Audio/Speech/Split/mu.mp3
+  artifactKey: Guid(f93e3bb244ec2e04681e8d14488c7ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/mu.mp3 using Guid(f93e3bb244ec2e04681e8d14488c7ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bee9cf21ecda3b0cb06f81be3f03864c') in 0.020481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Audio/Speech/Split/sha.mp3
+  artifactKey: Guid(f2861a2fa65674646afffc3007643c1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/sha.mp3 using Guid(f2861a2fa65674646afffc3007643c1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76586638724d6a129245ba164872bce2') in 0.050294 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Audio/Speech/Split/pi.mp3
+  artifactKey: Guid(8f8adcfabcac2964aa341ae2d9965004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/pi.mp3 using Guid(8f8adcfabcac2964aa341ae2d9965004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fddefa684bfb61194a360315eedf9c2') in 0.016504 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Audio/Speech/Split/mo.mp3
+  artifactKey: Guid(7ed6cab060f565848988c4de5394d51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/mo.mp3 using Guid(7ed6cab060f565848988c4de5394d51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9754923dec73c58364382b0aa8d4286a') in 0.017790 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Audio/Speech/Split/bo.mp3
+  artifactKey: Guid(28866520db605674b889d548b8702ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/bo.mp3 using Guid(28866520db605674b889d548b8702ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b172c362fbc0c8e884d21650a388bbe1') in 0.015874 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Audio/Speech/Split/ra.mp3
+  artifactKey: Guid(034c2f8923094f24a9e9a62647f5b17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/ra.mp3 using Guid(034c2f8923094f24a9e9a62647f5b17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b777b633e53ebc92cccb1959ebe73037') in 0.019930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Audio/Speech/Split/pe.mp3
+  artifactKey: Guid(f2e36cafdf531f94e969b558affa771a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/pe.mp3 using Guid(f2e36cafdf531f94e969b558affa771a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c60e7da7972425bfb29609374b15fe9') in 0.029088 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Audio/Speech/Split/ri.mp3
+  artifactKey: Guid(fe2fa1b2bbd23554193356c8d9b000f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/ri.mp3 using Guid(fe2fa1b2bbd23554193356c8d9b000f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99965c070d2fc1a231d450cd0ebf4686') in 0.017763 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Audio/Speech/Split/hi.mp3
+  artifactKey: Guid(27d52f8ebb0729648988ca5f470c4b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/hi.mp3 using Guid(27d52f8ebb0729648988ca5f470c4b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc76efb2836139cce52bf04e7ab45e77') in 0.020278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Audio/Speech/Split/de.mp3
+  artifactKey: Guid(79e7f0ed744bab04dacfb62c0d6bc91c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/de.mp3 using Guid(79e7f0ed744bab04dacfb62c0d6bc91c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7922f25fd6a3be44bb4301faaa44893f') in 0.020089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Audio/Speech/Split/ii.mp3
+  artifactKey: Guid(04df7f8e900e9bf4dbedf5eaea6895d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/ii.mp3 using Guid(04df7f8e900e9bf4dbedf5eaea6895d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3d1d87fab67a62a0c792211fec0956d') in 0.016769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Audio/Speech/Split/gu.mp3
+  artifactKey: Guid(227c7a43f19b091438decf5dc84c430b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/gu.mp3 using Guid(227c7a43f19b091438decf5dc84c430b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e2c2bdad32b26c12d9f47d7560fcb79') in 0.016972 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Audio/Speech/Split/ou.mp3
+  artifactKey: Guid(97f87efe15b9f5443adc9ce6267fef4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/ou.mp3 using Guid(97f87efe15b9f5443adc9ce6267fef4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e7de75ff97e16fd0b8555c87e383554') in 0.019845 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Audio/Speech/Split/i.mp3
+  artifactKey: Guid(55ec1613a17a5d6439d8ffb0267a374f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/i.mp3 using Guid(55ec1613a17a5d6439d8ffb0267a374f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cc063bb8ad782fd0bed52ac1c890237') in 0.022978 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Audio/Speech/Split/ju.mp3
+  artifactKey: Guid(51369a47527683c4c823eeee750f9dcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/ju.mp3 using Guid(51369a47527683c4c823eeee750f9dcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45db07425042db0bd26d22ac3c378f16') in 0.024251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Audio/Speech/Split/ro.mp3
+  artifactKey: Guid(d7c80e982430bbd408bc924aab9e05f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/ro.mp3 using Guid(d7c80e982430bbd408bc924aab9e05f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b40974f55927e59c69a6af6d5c48956d') in 0.021551 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Audio/Speech/Split/bu.mp3
+  artifactKey: Guid(d8b416d38447bbd4598244776d7e81e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/bu.mp3 using Guid(d8b416d38447bbd4598244776d7e81e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24a4b634efe1437e96c605a428c5f60f') in 0.018125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Audio/Speech/Split/hya.mp3
+  artifactKey: Guid(109d04e82b5a1d1458e94b95d7953525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/hya.mp3 using Guid(109d04e82b5a1d1458e94b95d7953525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bc63124c6e4c620554b69d272577d58') in 0.015468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Audio/Speech/Split/ji.mp3
+  artifactKey: Guid(13d06e80b59b66e49aa37a8e8ff56b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/ji.mp3 using Guid(13d06e80b59b66e49aa37a8e8ff56b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a4567eb388a3b991addd1663532fa15') in 0.021880 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Audio/Speech/Split/ei.mp3
+  artifactKey: Guid(5d14c05542af7d44a87d721264f289dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/ei.mp3 using Guid(5d14c05542af7d44a87d721264f289dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ee29ce6baa1811cad9d4b2710e0d02a') in 0.017517 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Audio/Speech/Split/byo.mp3
+  artifactKey: Guid(0555432c06f0a7d459a6710ef868a71e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/byo.mp3 using Guid(0555432c06f0a7d459a6710ef868a71e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17d2e37e96c939bf7bb3d591f5805b05') in 0.019963 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Audio/Speech/Split/ki.mp3
+  artifactKey: Guid(f253bdf5d44cd064e8acbdcbf2a630a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/ki.mp3 using Guid(f253bdf5d44cd064e8acbdcbf2a630a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89662669d0627d56e7a0ce5601c1e53c') in 0.029784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Audio/Speech/Split/se.mp3
+  artifactKey: Guid(e157628bcc7cd5c47b0935e946a2945b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/se.mp3 using Guid(e157628bcc7cd5c47b0935e946a2945b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f4b5e4d64525f4cd19368f262fff3f7') in 0.019099 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Audio/Speech/Split/hyu.mp3
+  artifactKey: Guid(b686f26bc6a93ca4f8bb9c9a0c168a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/hyu.mp3 using Guid(b686f26bc6a93ca4f8bb9c9a0c168a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21ae4c2dacab5c81d47c3ab45aaeceb4') in 0.019677 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Audio/Speech/Split/ru.mp3
+  artifactKey: Guid(92765dd28ff365a43948685e155aca32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/ru.mp3 using Guid(92765dd28ff365a43948685e155aca32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca4de98da65d55014ec1aa86924800d4') in 0.038482 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Audio/Speech/Split/ha.mp3
+  artifactKey: Guid(26358b23476a17f40adbc240723e8416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/ha.mp3 using Guid(26358b23476a17f40adbc240723e8416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc58fbb6f0b242ba7e1d60e15e60e6e0') in 0.013724 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Audio/Speech/Split/gi.mp3
+  artifactKey: Guid(4a7de36db0e6f2542b12e20396d4fa01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/gi.mp3 using Guid(4a7de36db0e6f2542b12e20396d4fa01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df117070565334bb27e8820f72c55aa2') in 0.013535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Audio/Speech/Split/ga.mp3
+  artifactKey: Guid(c6b9150ac131386459d1980d92285836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/ga.mp3 using Guid(c6b9150ac131386459d1980d92285836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd73e355b883e8c727782f5e1a84e5925') in 0.025612 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Audio/Speech/Split/re.mp3
+  artifactKey: Guid(a4d0eada5e3510c4eb8951655ab0058f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/re.mp3 using Guid(a4d0eada5e3510c4eb8951655ab0058f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d43508c265d888a87aa4fd981fe7c16') in 0.013664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Audio/Speech/Split/kyo.mp3
+  artifactKey: Guid(391b34aa537dc664db7bb14a91482e60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/kyo.mp3 using Guid(391b34aa537dc664db7bb14a91482e60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd792935c334bfd860a272c0f1efc2c4b') in 0.012906 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.072515 seconds.
+  path: Assets/Audio/Speech/Split/sho.mp3
+  artifactKey: Guid(4b1d75b8b5c40a04096e6e4ab0025274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/sho.mp3 using Guid(4b1d75b8b5c40a04096e6e4ab0025274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51fb45bc696b1879623833274e8afaef') in 0.019271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Audio/Speech/Split/to.mp3
+  artifactKey: Guid(ffe6feab2037d79469692e5494adc7a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/to.mp3 using Guid(ffe6feab2037d79469692e5494adc7a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ea06d51f21347a6675675df9b59b93c') in 0.020329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Audio/Speech/Split/ta.mp3
+  artifactKey: Guid(7ea7666dc2a1e3b4daafbcb5c63a4cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/ta.mp3 using Guid(7ea7666dc2a1e3b4daafbcb5c63a4cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0d2a61b3e33b5102430cc81d77f5c36') in 0.027919 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Audio/Speech/Split/u.mp3
+  artifactKey: Guid(59d3ce864269dcf4493f98e8cf3886d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/u.mp3 using Guid(59d3ce864269dcf4493f98e8cf3886d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '853286cc0cdcebf60a8bbda6131f1854') in 0.026381 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Audio/Speech/Split/yu.mp3
+  artifactKey: Guid(59fce40bfa67a7d42a8695c756283db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/yu.mp3 using Guid(59fce40bfa67a7d42a8695c756283db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55a88190a29e87218e7f2cfcc535ee97') in 0.019977 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Audio/Speech/Split/ya.mp3
+  artifactKey: Guid(e7e1ab49db329174491ab7137259e201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/ya.mp3 using Guid(e7e1ab49db329174491ab7137259e201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cf047b9e65eebe380e2ab6af4e6db6d') in 0.022131 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Audio/Speech/Split/wo.mp3
+  artifactKey: Guid(1c4a198e44eb7fd4f87f8788e52bd953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/wo.mp3 using Guid(1c4a198e44eb7fd4f87f8788e52bd953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70fe58a5fa46ad17a3d3ef22ba803ad9') in 0.029329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Audio/Speech/Split/wa.mp3
+  artifactKey: Guid(2a457a1ec6bd75444b032b0cbae4c62b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/wa.mp3 using Guid(2a457a1ec6bd75444b032b0cbae4c62b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c09697281ce5c3ff6878ffe0a2f2952a') in 0.019724 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.286324 seconds.
+  path: Assets/Audio/Speech/Split/ze.mp3
+  artifactKey: Guid(3ce94c5cfc68c4947906c366fb4f2d77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/ze.mp3 using Guid(3ce94c5cfc68c4947906c366fb4f2d77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '398a13474605da5093fd14653b2deeca') in 0.027330 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Audio/Speech/Split/zu.mp3
+  artifactKey: Guid(fa8d6abd81737724187170777a264453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/zu.mp3 using Guid(fa8d6abd81737724187170777a264453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '889984ee554b95ea90aaf16cb7bb9975') in 0.018612 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.062546 seconds.
+  path: Assets/Audio/Speech/Split/å.mp3
+  artifactKey: Guid(22057eba29c92014d8284d334e7a2a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Speech/Split/å.mp3 using Guid(22057eba29c92014d8284d334e7a2a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb3ee26f1a6c0755d8ae678b58af4af3') in 0.023702 seconds 
+Thread 0000000000009398 may have been prematurely finalized
+Thread 0000000000009398 may have been prematurely finalized
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011352 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\chris\OneDrive - NEXT Uddannelse København\Programming\Projects\ジャミフ - Work\Jamifu\Unity Project\ジゃミフ\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\chris\OneDrive - NEXT Uddannelse København\Programming\Projects\ジャミフ - Work\Jamifu\Unity Project\ジゃミフ\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.615 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1617ms)
+		BeginReloadAssembly (189ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (44ms)
+		EndReloadAssembly (1263ms)
+			LoadAssemblies (158ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (341ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (66ms)
+			SetupLoadedEditorAssemblies (613ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (156ms)
+				ProcessInitializeOnLoadAttributes (372ms)
+				ProcessInitializeOnLoadMethodAttributes (60ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.57 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3775 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (0.9 MB). Loaded Objects now: 4234.
+Memory consumption went from 156.1 MB to 155.2 MB.
+Total: 5.022800 ms (FindLiveObjects: 0.348700 ms CreateObjectMapping: 0.139900 ms MarkObjects: 4.030900 ms  DeleteObjects: 0.501900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 509.639436 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset
+  artifactKey: Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset using Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48322e82503955f85234f95db8e608c7') in 0.172828 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset
+  artifactKey: Guid(5302535af1044152a457ed104f1f4b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset using Guid(5302535af1044152a457ed104f1f4b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39e2333b4e18276c4af2fe022723e12c') in 0.031014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset
+  artifactKey: Guid(0161d805a3764c089bef00bfe00793f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset using Guid(0161d805a3764c089bef00bfe00793f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd772359aee10fecfad67a64ba978404') in 0.035712 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2082.891646 seconds.
+  path: Assets/Prefabs/Font/Noto_Sans_JP/static/NotoSansJP-Bold.ttf
+  artifactKey: Guid(f96a523eec121be439b92e6c1cdf714a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Font/Noto_Sans_JP/static/NotoSansJP-Bold.ttf using Guid(f96a523eec121be439b92e6c1cdf714a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '053064e356afa2302a85b694804fc6dd') in 0.518553 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Prefabs/Font/Noto_Sans_JP/static/NotoSansJP-Thin.ttf
+  artifactKey: Guid(3a7de1eaa9931ac4693918ca6f429344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Font/Noto_Sans_JP/static/NotoSansJP-Thin.ttf using Guid(3a7de1eaa9931ac4693918ca6f429344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fd186c88c86f467ea2ddde8d22416dd') in 0.070335 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Prefabs/Font/Noto_Sans_JP/static/NotoSansJP-Medium.ttf
+  artifactKey: Guid(56d85e4be4cb2314488b661df7ebd5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Font/Noto_Sans_JP/static/NotoSansJP-Medium.ttf using Guid(56d85e4be4cb2314488b661df7ebd5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1df3ffac2bede1a89ff64bf1851363c') in 0.040688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 181.185555 seconds.
+  path: Assets/Prefabs/Font/Noto_Sans_JP/NotoSansJP-BOLD SDF.asset
+  artifactKey: Guid(03f0022988a86ae408b85d1d42f49dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Font/Noto_Sans_JP/NotoSansJP-BOLD SDF.asset using Guid(03f0022988a86ae408b85d1d42f49dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d971719a2a37f4959f7923046d3a8f5') in 0.159155 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Prefabs/Font/Noto_Sans_JP/NotoSansJP-Thin SDF.asset
+  artifactKey: Guid(4efa2626bdc07ad46a60a4e286ce335b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Font/Noto_Sans_JP/NotoSansJP-Thin SDF.asset using Guid(4efa2626bdc07ad46a60a4e286ce335b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb9c8192ea9741e5b04ecc37bc3254f5') in 0.065834 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Prefabs/Font/Noto_Sans_JP/NotoSansJP-Medium SDF.asset
+  artifactKey: Guid(cd7617147f5443343a0ea4ed8df572cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Font/Noto_Sans_JP/NotoSansJP-Medium SDF.asset using Guid(cd7617147f5443343a0ea4ed8df572cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '113f8a9a6ad10a5fb87f576a65cb533b') in 0.069937 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 197.862399 seconds.
+  path: Assets/Prefabs/Font/Noto_Sans_JP/NotoSansJP-BOLD SDF.asset
+  artifactKey: Guid(03f0022988a86ae408b85d1d42f49dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Font/Noto_Sans_JP/NotoSansJP-BOLD SDF.asset using Guid(03f0022988a86ae408b85d1d42f49dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d1b81cc97804b4e39b1ad86651b45ad') in 0.049063 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Prefabs/Font/Noto_Sans_JP/NotoSansJP-Extra BOLD SDF.asset
+  artifactKey: Guid(6916ada25253cb6469d2f4cb668d7874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Font/Noto_Sans_JP/NotoSansJP-Extra BOLD SDF.asset using Guid(6916ada25253cb6469d2f4cb668d7874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4099d836bef4949ea8af3a694d740fe6') in 0.057981 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Prefabs/Font/Noto_Sans_JP/NotoSansJP-Regular SDF.asset
+  artifactKey: Guid(287679661038e75428ad60120d04a0a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Font/Noto_Sans_JP/NotoSansJP-Regular SDF.asset using Guid(287679661038e75428ad60120d04a0a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa107aa309a8b7feb7c5073960f00de6') in 0.055593 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Prefabs/Font/Noto_Sans_JP/NotoSansJP-SemiBold SDF.asset
+  artifactKey: Guid(684f24e4bc9c85c46be0f5a7303a4fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Font/Noto_Sans_JP/NotoSansJP-SemiBold SDF.asset using Guid(684f24e4bc9c85c46be0f5a7303a4fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f3a59e01346d688b67b8748ee69bece') in 0.059369 seconds 
