@@ -50,6 +50,11 @@ public class MemoryGameController : MonoBehaviour
 
     void Start() 
     {
+        if (audioSource == null)
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
+
         GetButtons();
         AddListener();
         AddGamePuzzles();
@@ -179,7 +184,7 @@ public class MemoryGameController : MonoBehaviour
             }
 
             audioSource = GetComponent<AudioSource>();
-            audioClip = Resources.Load<AudioClip>("Audio/Speech/Split/" + puzzlesRomaji[firstGuessPuzzleIndex]);
+            audioClip = Resources.Load<AudioClip>("Audio/Speech/Split/" + puzzlesRomaji[secondGuessPuzzleIndex]);
             audioSource.clip = audioClip;
             audioSource.Play();
 
