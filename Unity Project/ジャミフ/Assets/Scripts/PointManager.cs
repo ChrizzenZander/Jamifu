@@ -8,42 +8,59 @@ using UnityEngine.SceneManagement;
 
 public class PointManager : MonoBehaviour
 {
-    public int points = 0;
-    public int[] pointList = new int[0];
-    public TMP_Text displayText;
+    private int gameID;
 
-    public void Update() {
-        //AddPoint(1);
+    public int score;
+    private int highScore;
+
+    private string gameName;
+
+    public TMP_Text scoreText;
+    public TMP_Text highScoreText;
+
+    private bool onAFuckingRoll = false;
+
+	private void Start()
+	{
+        gameID = SceneManager.GetActiveScene().buildIndex;
+        gameName = "game" + gameID.ToString();
+        highScore = PlayerPrefs.GetInt(gameName + "HighScore");
+        highScoreText.text = "High Score: " + highScore.ToString();
         UpdateText();
     }
 
-    public void UpdateText() {
-        displayText.text = points.ToString();
+	public void UpdateText() {
+        scoreText.text = "Score: " + score.ToString();
+
+        // Checks if highscoreText should also be updated
+        if (!onAFuckingRoll && score > highScore) onAFuckingRoll = true;
+        if (onAFuckingRoll) highScoreText.text = "High Score: " + score.ToString();
     }
 
     public void AddPoint(int point) {
-        points += point;
+        score += point;
         UpdateText();
     }
 
     public void SubPoint(int point) {
-        points -= point;
+        score -= point;
         UpdateText();
     }
 
-    public void StorePoints() {
-        int gameID = SceneManager.GetActiveScene().buildIndex;
-        pointList[gameID] = points;
+    public void StoreScore() {
+        PlayerPrefs.SetInt("PlayerScore", PlayerPrefs.GetInt("PlayerScore" + score));
+
+        // If score is higher than HighScore, Update the HighScore
+        if (score > PlayerPrefs.GetInt(gameName + "HighScore")) PlayerPrefs.SetInt(gameName + "HighScore", score);
     }
 
-    public void SetPoints(int point)
+    public void SetScore(int point)
     {
-        points = point;
+        score = point;
         UpdateText();
     }
-    public void ResetPoints() {
-        points = 0;
-        pointList = new int[0];
+    public void ResetScore() {
+        score = 0;
         UpdateText();
     }
 };
