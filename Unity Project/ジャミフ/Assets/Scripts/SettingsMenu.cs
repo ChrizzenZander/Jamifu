@@ -12,7 +12,28 @@ public class SettingsMenu : MonoBehaviour
 
     public TMP_InputField iField;
     public TMP_Text placeHolderText;
-    public void SetVolume(float volume)
+
+    public Slider slider;
+    public float GetMasterLevel()
+    {
+        float value;
+        bool result = audioMixer.GetFloat("volume", out value);
+        if (result)
+        {
+            return value;
+        }
+        else
+        {
+            return 0f;
+        }
+    }
+
+    private void Start()
+	{
+        slider.value = GetMasterLevel();
+	}
+
+	public void SetVolume(float volume)
     {
         audioMixer.SetFloat("volume", volume);
         displayText.text = "Volume: " + Mathf.Round(80+volume).ToString();
