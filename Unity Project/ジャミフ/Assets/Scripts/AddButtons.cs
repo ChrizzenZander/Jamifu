@@ -11,7 +11,7 @@ public class AddButtons : MonoBehaviour
     private GameObject btn;
 
     void Awake() {
-        for (int i = 0; i < 8; i++) {
+        for (int i = 0; i < 50; i++) {
             GameObject Button = Instantiate(btn);
             Button.name = ""+i.ToString();
             Button.transform.SetParent(PuzzleField, false /* For ikke at få problemer med world position sættes den til false */);
